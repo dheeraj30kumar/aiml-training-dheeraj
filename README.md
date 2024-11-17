@@ -1,7 +1,3 @@
-Got it! Here's a simplified version of the README without the "how to run" section:
-
----
-
 # AI & ML Programs
 
 This folder contains **AI (Artificial Intelligence) and ML (Machine Learning)** programs that I have learned as part of my **college-organized training program** in Python.
