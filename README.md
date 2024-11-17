@@ -10,8 +10,5 @@ This folder contains **AI (Artificial Intelligence) and ML (Machine Learning)** 
 
 ## Acknowledgements
 
-This project is part of the AI/ML training program provided by [N.I.E.T College].
+This project is part of the AI/ML training program provided by N.I.E.T College.
 
----
-
-This version keeps it very short and focuses on the essentials. Let me know if you'd like any further changes!
